@@ -9,4 +9,6 @@
 import Foundation
 
 print("Hello, GitHub!")
+print("Oh noes! What do I do now?")
+
 print("Well that was easy")
